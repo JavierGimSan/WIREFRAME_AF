@@ -50,7 +50,7 @@ Apartat per que el professor pugui indicar les franjes horaries en les que impar
 Espai del professor per veure la seva informació.
 ![Informació pròpia](images/Captura%20de%20pantalla%202024-11-08%20160630.png)
 
-## Pàgina d'inici
+## Pàgina d'inici / Àrea administrador
 ![Pàgina d'inici](images/imagen_2024-11-15_152556431.png).
 
 ## Pàginas de registre
@@ -59,5 +59,5 @@ Espai del professor per veure la seva informació.
 ## Àrea alumnat
 ![Àrea alumnat](images/imagen_2024-11-15_152740786.png)
 
-## Àrea administrador
-![Àrea administrador](images/imagen_2024-11-15_152755736.png)
+## Àrea professor
+![Àrea professor](images/imagen_2024-11-15_152755736.png)
